@@ -1,0 +1,4 @@
+.DS_Store
+# Claude Code config is personal: never commit it
+.claude/
+CLAUDE.md
